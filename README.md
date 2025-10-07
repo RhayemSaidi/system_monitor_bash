@@ -1,7 +1,7 @@
 # System Resource Monitor (Bash)
 
 A lightweight Linux system monitoring script written in Bash.
-This tool tracks CPU, memory, and disk usage in real-time and sends alerts whenever usage exceeds configurable thresholds. It’s designed for simplicity, easy setup, and can be run on Linux environments or Windows via WSL.
+This tool tracks CPU, memory, and disk usage in real-time and sends alerts whenever usage exceeds configurable thresholds.
 
 **Features:
 
