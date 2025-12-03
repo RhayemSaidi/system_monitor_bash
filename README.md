@@ -3,7 +3,7 @@
 A lightweight Linux system monitoring script written in Bash.
 This tool tracks CPU, memory, and disk usage in real-time and sends alerts whenever usage exceeds configurable thresholds.
 
-**Features:
+**Features**:
 
 Monitors CPU, memory, and disk usage.
 
@@ -17,7 +17,7 @@ Adjustable refresh interval for monitoring.
 
 Clean and minimal Bash script, easy to extend or integrate.
 
-**Use Cases:
+**Use Cases**:
 
 Personal system monitoring on Linux or WSL.
 
